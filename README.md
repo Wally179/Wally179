@@ -1,8 +1,13 @@
 # 💫 Sobre Mim:
-Estudante de Sistemas de informação, aspirante a desenvolvedor mobile.
-Formado em técnico de redes de computadores e desenhista de páginas web.
-Além de formação em UX designer pela XP Educação.
-Procurando uma primeira oportunidade como desenvolvedor front-end junior.
+Sou um profissional formado em Sistemas de Informação, com aspirações em desenvolvimento e UX/UI. Além disso, tenho experiência como técnico de redes de computadores, onde adquiri habilidades sólidas em solução de problemas e configuração de redes. Também sou um desenhista de páginas web, capaz de criar interfaces atraentes e intuitivas.
+
+Buscando aprimorar ainda mais minha expertise em UX design, concluí um curso de formação pela XP Educação, onde aprendi métodos e técnicas avançadas para a criação de experiências digitais excepcionais.
+
+Como profissional dedicado e apaixonado por tecnologia, estou em busca de uma primeira oportunidade para aplicar meus conhecimentos e habilidades. Sou um colaborador proativo, ávido por aprender e contribuir para projetos desafiadores.
+
+Tenho habilidades excelentes de comunicação e trabalho bem em equipe, buscando sempre a colaboração para alcançar resultados de qualidade. Sou motivado, organizado e proativo, capaz de lidar com prazos e exigências rigorosas.
+
+Estou aberto a novas oportunidades e ansioso para contribuir com uma equipe dinâmica e inovadora. Se você procura um profissional empenhado em desenvolvimento e UX/UI, estou pronto para enfrentar novos desafios e agregar valor aos projetos
 
 ## 🌐 Contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wallace-santos-925a75106/) 

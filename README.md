@@ -53,13 +53,9 @@ Sou um **Desenvolvedor Front-end** com uma forte base em **UX Design** e infraes
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wally179&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wally179&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wally179&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 
 ### 📫 Vamos Conversar?

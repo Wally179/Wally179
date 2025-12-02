@@ -1,8 +1,13 @@
+### <div align="center">Olá, eu sou o Wallace Santos! 👋</div>
+
 <div align="center">
-  <img height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdiNTQ2NTFhZGRkYzE5N2M4MzFhODdiNTQ2NTFhZGRkYzE5N2M4MyZlcD12MV9zdGlja2Vycy9naWZz&rid=sticker.gif&ct=s"  />
+
+🌎 **Escolha seu idioma / Choose your language**  
+[🇧🇷 Português](README.md) | [🇺🇸 English](README_EN.md)
+
 </div>
 
-### <div align="center">Olá, eu sou o Wallace Santos! 👋</div>
+<br />
 
 <div align="center">
   <strong>Front-end Developer | UX/UI Designer | React.js & Next.js Enthusiast</strong>
@@ -52,23 +57,40 @@ Sou um **Desenvolvedor Front-end** com uma forte base em **UX Design** e infraes
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" />
 
 ---
-### 📊 GitHub Stats
-![Wallace's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wally179&show_icons=true&theme=radical)
+
+## 🔧 Meu Workflow & Boas Práticas
+
+- Design First: prototipação no Figma antes de escrever código.
+- Arquitetura organizada: pastas com domain-driven structure (App / Modules / Components / Hooks / Utils).
+- Clean Code: nomes semânticos, funções puras, responsabilidades claras.
+- Acessibilidade (A11y): aria-labels, roles, contraste e navegação por teclado.
+- Atomic Design: componentes reutilizáveis e escaláveis.
+- Git Workflow: Conventional Commits + GitFlow (feature → develop → main).
+- Qualidade de Código: ESLint + Prettier + Stylelint + Husky.
+- Testes: Jest + Testing Library.
+- Performance: memoização, lazy loading e server components (Next.js).
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wally179&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wally179&layout=compact&theme=radical)
 
 ---
+
 ### 📫 Vamos Conversar?
 
 Estou aberto a oportunidades de trabalho (CLT ou Freelance). Se você busca um dev que entende de regras de negócio, design e código limpo, me chame!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/wallace-santos-925a75106/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
   <a href="mailto:wallace-179@hotmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.figma.com/proto/sW9dqPomWBVnaIkGkm9I8N/Portif%C3%B3lio-UX" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio_UX-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/-Portfolio_UX-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   </a>
 </div>

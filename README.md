@@ -1,21 +1,79 @@
-# 💫 Sobre Mim:
-Sou um profissional formado em Sistemas de Informação, atualmente atuando como trainee de desenvolvedor com foco em Next.js e Nest.js. Tenho paixão por desenvolvimento e UX/UI, e minha experiência anterior inclui trabalho como técnico de redes de computadores, onde desenvolvi habilidades sólidas em solução de problemas e configuração de redes. Além disso, sou proficiente em design de páginas web, criando interfaces atraentes e intuitivas.
+<div align="center">
+  <img height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdiNTQ2NTFhZGRkYzE5N2M4MzFhODdiNTQ2NTFhZGRkYzE5N2M4MyZlcD12MV9zdGlja2Vycy9naWZz&rid=sticker.gif&ct=s"  />
+</div>
 
-Buscando aprimorar ainda mais minha expertise em UX design, concluí recentemente um curso de formação pela XP Educação, onde aprofundei meus conhecimentos em métodos e técnicas avançadas para a criação de experiências digitais excepcionais.
+### <div align="center">Olá, eu sou o Wallace Santos! 👋</div>
 
-Sou um profissional dedicado, motivado e organizado, capaz de lidar com prazos e exigências rigorosas. Trabalho bem em equipe, buscando sempre a colaboração para alcançar resultados de qualidade. Além do meu trabalho atual, estou aberto a oportunidades de freelancing, ansioso para aplicar e expandir meus conhecimentos nessa área.
+<div align="center">
+  <strong>Front-end Developer | UX/UI Designer | React.js & Next.js Enthusiast</strong>
+</div>
 
-[Portfolio - Veja meu trabalho!](https://www.figma.com/proto/sW9dqPomWBVnaIkGkm9I8N/Portif%C3%B3lio-UX?page-id=0%3A1&type=design&node-id=67-950&viewport=-971%2C434%2C0.37&t=qjV0d9355opS7Bqy-1&scaling=scale-down&starting-point-node-id=67%3A950&mode=design)
+<div align="center">
+   📍 Santos, SP, Brasil
+</div>
+<br />
 
-## 🌐 Contato:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallace-santos-925a75106/)
+---
 
-# 💻 Tecnologias preferidas:
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Next.js](https://img.shields.io/badge/Next.js-%2320232a.svg?style=for-the-badge&logo=nextdotjs&logoColor=%23FFFFFF) ![Nest.js](https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+### 🚀 Sobre Mim
 
-# 🖥 Tecnologias secundárias:
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=%23D04A37) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+Sou um **Desenvolvedor Front-end** com uma forte base em **UX Design** e infraestrutura de redes. Meu foco é eliminar a lacuna entre o design e a engenharia, criando interfaces que são visualmente fiéis (Pixel Perfect), acessíveis e altamente performáticas.
 
-# 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wally179&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 💼 **Experiência Recente:** Atuei como Core Developer no **Bloom by IMPACT**, uma plataforma SaaS de gestão ESG (com suporte Apple), onde cuidei de dashboards complexos usando React e TypeScript.
+- 🎓 **Formação:** Sistemas de Informação (UNIP) & Especialização em UX Design (XP Educação).
+- 🧠 **Background:** Minha experiência prévia com **Redes e Infraestrutura** me permite entender o ciclo completo da aplicação, do servidor ao pixel na tela.
+- 🎯 **Objetivo:** Atualmente buscando novos desafios como **Front-end Pleno** ou **UX Engineer**.
 
+---
+
+### 🛠️ Tech Stack & Ferramentas
+
+**Front-end Core & Frameworks**
+<br>
+<img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+
+**Back-end & Infra**
+<br>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
+**Design & Prototipagem**
+<br>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" />
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wally179&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wally179&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+---
+
+### 📫 Vamos Conversar?
+
+Estou aberto a oportunidades de trabalho (CLT ou Freelance). Se você busca um dev que entende de regras de negócio, design e código limpo, me chame!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/wallace-santos-925a75106/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:wallace-179@hotmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.figma.com/proto/sW9dqPomWBVnaIkGkm9I8N/Portif%C3%B3lio-UX" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio_UX-F24E1E?style=for-the-badge&logo=figma&logoColor=white" target="_blank" />
+  </a>
+</div>

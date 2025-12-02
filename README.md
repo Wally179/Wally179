@@ -52,11 +52,18 @@ Sou um **Desenvolvedor Front-end** com uma forte base em **UX Design** e infraes
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" />
 
 ---
+### 📊 GitHub Stats
 
-### 📊 GitHub Stats:
+<div align="center">
+  <a href="https://github.com/Wally179">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wally179&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wally179&layout=compact&theme=dracula"/>
+  </a>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wally179&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
----
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Wally179&theme=dracula" alt="github streak stats"/>
+</div>
 
 ### 📫 Vamos Conversar?
 

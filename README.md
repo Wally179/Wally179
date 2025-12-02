@@ -53,18 +53,10 @@ Sou um **Desenvolvedor Front-end** com uma forte base em **UX Design** e infraes
 
 ---
 ### 📊 GitHub Stats
+![Wallace's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wally179&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wally179&layout=compact&theme=radical)
 
-<div align="center">
-  <a href="https://github.com/Wally179">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wally179&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wally179&layout=compact&theme=dracula"/>
-  </a>
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Wally179&theme=dracula" alt="github streak stats"/>
-</div>
-
+---
 ### 📫 Vamos Conversar?
 
 Estou aberto a oportunidades de trabalho (CLT ou Freelance). Se você busca um dev que entende de regras de negócio, design e código limpo, me chame!

@@ -1,5 +1,8 @@
-### <div align="center">Olá, eu sou o Wallace Santos! 👋</div>
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=E30613&center=true&vCenter=true&width=800&height=120&lines=Olá,+eu+sou+Wallace+Santos;Desenvolvedor+Software+Pleno;FullStack+|+UX%2FUI+Design" alt="Typing SVG" />
+  </a>
+</div>
 <div align="center">
 
 🌎 **Escolha seu idioma / Choose your language**  

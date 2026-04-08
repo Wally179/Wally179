@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=E30613&center=true&vCenter=true&width=800&height=120&lines=Olá,+eu+sou+Wallace+Santos;Desenvolvedor+Software+Pleno;FullStack+|+UX%2FUI+Design" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=E30613,000000,E30613&height=250&section=header&text=Wallace%20Santos&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Software%20Pleno%20%7C%20FullStack%20%26%20UX%2FUI&descAlignY=55&descAlign=50&fontColor=FFFFFF" />
 </div>
 <div align="center">
 

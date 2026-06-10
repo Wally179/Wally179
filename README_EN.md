@@ -36,6 +36,23 @@ I am a **Mid-level Software Developer** (full stack) with a strong foundation in
 
 This year I have focused on projects with strong technical quality and creative direction. Here are a few highlights from my evolving portfolio:
 
+<table width="100%">
+  <tr>
+    <td width="100%">
+      <h3 align="center">🏀 Na Quadra</h3>
+      <p align="center"><strong>The Ultimate NBA Tracking Platform.</strong> A Fullstack Monorepo architecture and high-performance ecosystem with Turborepo. Real-Time integration with the ESPN API for live data and Scoreboards.</p>
+      <p align="center"><strong>Next.js 15 • NestJS • TypeScript • Turborepo • PostgreSQL</strong></p>
+      <p align="center">
+        <a href="https://github.com/Wally179/NaQuadra">
+           <img src="https://img.shields.io/badge/Access_Repository-E30613?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <table>
   <tr>
     <td width="33.3%">

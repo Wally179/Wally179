@@ -36,6 +36,23 @@ Sou um **Desenvolvedor de Software Pleno** (FullStack) com forte base em **UX/UI
 
 Neste ano, estive focado em desenvolver projetos de altíssima qualidade técnica e viés criativo. Aqui estão alguns destaques do meu portfólio iterativo:
 
+<table width="100%">
+  <tr>
+    <td width="100%">
+      <h3 align="center">🏀 Na Quadra</h3>
+      <p align="center"><strong>A Plataforma Definitiva de Acompanhamento da NBA.</strong> Uma arquitetura Monorepo Fullstack e ecossistema de alta performance com Turborepo. Integração Real-Time com a ESPN API para dados reais e Scoreboards ao vivo.</p>
+      <p align="center"><strong>Next.js 15 • NestJS • TypeScript • Turborepo • PostgreSQL</strong></p>
+      <p align="center">
+        <a href="https://github.com/Wally179/NaQuadra">
+           <img src="https://img.shields.io/badge/Acessar_Repositório-E30613?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <table>
   <tr>
     <td width="33.3%">
